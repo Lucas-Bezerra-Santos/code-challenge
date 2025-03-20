@@ -24,7 +24,7 @@ const MEDIAS = {
 };
 ```
 
-Saida esperada:
+Saída esperada:
 
 ```js
 mediaGeral 7.72
