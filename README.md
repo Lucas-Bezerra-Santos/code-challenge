@@ -23,4 +23,16 @@ const MEDIAS = {
   "4-BIMISTRE": [1, 8.5, 7, 10],
 };
 ```
+
+Saida esperada:
+
+```js
+mediaGeral 7.72
+media por bimestre {
+  '1-BIMESTRE': 8.63,
+  '2-BIMISTRE': 7.63,
+  '3-BIMISTRE': 8,
+  '4-BIMISTRE': 6.63
+}
+```
    
