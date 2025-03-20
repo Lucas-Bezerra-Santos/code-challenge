@@ -10,7 +10,7 @@
 - O programa deve validar que todas as notas estão no intervalor de 0 a 10;
 - As médias devem ser arredondadas para 2 casas decimais;
 - Exiba as médias de cada bimistre e a média anual ao final;
-- As notas devem estar pré-definiadas no código
+- As notas devem estar pré-definiadas no código.
 
 
 Ponto de partida:
