@@ -1,6 +1,6 @@
-# code-challenge
+# Code-challenge
 
-## Cálculo da Média Total Anual
+## Cálculo da Média Total Anual 
 **Requisitos:**
 - O ano letivo é dividido em 4 bimestres;
 - Cada bimestre terá 4 notas avaliativas;
